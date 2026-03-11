@@ -1,6 +1,3 @@
 # codigos
 
-asdas
 
-
-asdada
